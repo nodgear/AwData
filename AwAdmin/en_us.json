@@ -1,10 +1,10 @@
 {
     "version": "0.1",
     "phrases": {
-        "Errors": {
+        "errors": {
             "NoPermission": "You're not allowed to %s"
         },
-        "Titles": {
+        "titles": {
             "Dashboard": "Dashboard",
             "Tickets": "Tickets",
             "Warns": "Warns"
