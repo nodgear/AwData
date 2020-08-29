@@ -1,4 +1,5 @@
 {
+    "version": "0.1",
     "phrases": {
         "Errors": {
             "NoPermission": "You're not allowed to %s"
