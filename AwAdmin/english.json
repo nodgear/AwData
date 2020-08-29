@@ -1,0 +1,32 @@
+{
+    "phrases": {
+        "Errors": {
+            "NoPermission": "You're not allowed to %s"
+        },
+        "Titles": {
+            "Dashboard": "Dashboard",
+            "Tickets": "Tickets",
+            "Warns": "Warns"
+        },
+        "prompts": {
+            "Yes": "Yes",
+            "No": "No",
+            "Cancel": "Cancel"
+        },
+        "actions": {
+            "Kick": "Kick %s",
+            "Ban": "Bank %s",
+            "Jail": "Send %s to jail",
+            "Freeze": "Freeze %s",
+            "FreezeAll": "Freeze everyone",
+            "Claim": "Claim",
+            "Close": "Close",
+            "OpenChat": "Open Chat",
+            "AddToChat": "Add to this chat",
+            "GoTo": "Got to %s",
+            "Bring": "Bring %s",
+            "Disguise": "Enter Disguise",
+            "UnDisguise": "Exit Disguise"
+        }
+    }
+}
