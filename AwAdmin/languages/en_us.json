@@ -28,7 +28,8 @@
             "GoTo": "Got to %s",
             "Bring": "Bring %s",
             "Disguise": "Enter Disguise",
-            "UnDisguise": "Exit Disguise"
+            "UnDisguise": "Exit Disguise",
+            "Type": "Type here..."
         }
     }
 }
