@@ -30,6 +30,10 @@
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
             "Type": "Type here..."
+        },
+        "errors": {
+            "AdminNotFound": "Admin is invalid!",
+            "TargetNotFound": "Target is invalid or not found."
         }
     }
 }
