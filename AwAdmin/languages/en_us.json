@@ -16,21 +16,21 @@
             "Cancel": "Cancel"
         },
         "actions": {
-            "Kick": "Kick %s",
-            "Ban": "Ban %s",
-            "Jail": "Send %s to jail",
-            "Freeze": "Freeze %s",
+            "Kick": "Kick",
+            "Ban": "Ban",
+            "Jail": "Send to jail",
+            "Freeze": "Freeze ",
             "FreezeAll": "Freeze everyone",
             "Claim": "Claim",
             "Close": "Close",
             "OpenChat": "Open Chat",
             "AddToChat": "Add to this chat",
-            "Goto": "Got to %s",
-            "Bring": "Bring %s",
+            "Goto": "Got to",
+            "Bring": "Bring",
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
             "Type": "Type here...",
-            "Warn": "Warn %s",
+            "Warn": "Warn",
             "Copy": "Copy to clipboard",
         }
     }
