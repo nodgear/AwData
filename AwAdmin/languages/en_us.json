@@ -25,11 +25,13 @@
             "Close": "Close",
             "OpenChat": "Open Chat",
             "AddToChat": "Add to this chat",
-            "GoTo": "Got to %s",
+            "Goto": "Got to %s",
             "Bring": "Bring %s",
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
-            "Type": "Type here..."
+            "Type": "Type here...",
+            "Warn": "Warn %s",
+            "Copy": "Copy to clipboard",
         }
     }
 }
