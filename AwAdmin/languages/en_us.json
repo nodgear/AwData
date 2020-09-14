@@ -17,7 +17,7 @@
         },
         "actions": {
             "Kick": "Kick %s",
-            "Ban": "Bank %s",
+            "Ban": "Ban %s",
             "Jail": "Send %s to jail",
             "Freeze": "Freeze %s",
             "FreezeAll": "Freeze everyone",
