@@ -32,6 +32,10 @@
             "Type": "Type here...",
             "Warn": "Warn",
             "Copy": "Copy to clipboard"
+        },
+        "notifications": {
+            "SuccessfullyWarnedPlayer": "Successfully warned %s",
+            "SuccessfullyWarnedPlayerId": "Successfully warned player with SteamID %s"
         }
     }
 }
