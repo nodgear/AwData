@@ -8,7 +8,8 @@
             "Dashboard": "Dashboard",
             "Tickets": "Tickets",
             "Warns": "Warns",
-            "TicketHistory": "Ticket History"
+            "TicketHistory": "Ticket History",
+            "PageNumber": "Page %i/%i"
         },
         "prompts": {
             "Yes": "Yes",
