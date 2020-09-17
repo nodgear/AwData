@@ -31,7 +31,9 @@
             "UnDisguise": "Exit Disguise",
             "Type": "Type here...",
             "Warn": "Warn",
-            "Copy": "Copy to clipboard"
+            "Copy": "Copy to clipboard",
+            "SelectPage": "Select page",
+            "SearchByID": "Seach by SteamID64" 
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
