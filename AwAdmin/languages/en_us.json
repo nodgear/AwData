@@ -37,7 +37,8 @@
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
-            "SuccessfullyWarnedPlayerId": "Successfully warned player with SteamID %s"
+            "SuccessfullyWarnedPlayerId": "Successfully warned player with SteamID %s",
+            "ClaimedTicket": "%s Claimed the ticket"
         }
     }
 }
