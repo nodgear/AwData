@@ -8,7 +8,8 @@
             "Dashboard": "Dashboard",
             "Tickets": "Tickets",
             "Warns": "Warns",
-            "TicketHistory": "Ticket History"
+            "TicketHistory": "Ticket History",
+            "PageNumber": "Page %i/%i"
         },
         "prompts": {
             "Yes": "Yes",
@@ -16,17 +17,17 @@
             "Cancel": "Cancel"
         },
         "actions": {
-            "Kick": "Kick %s",
-            "Ban": "Bank %s",
-            "Jail": "Send %s to jail",
-            "Freeze": "Freeze %s",
+            "Kick": "Kick",
+            "Ban": "Ban",
+            "Jail": "Send to jail",
+            "Freeze": "Freeze ",
             "FreezeAll": "Freeze everyone",
             "Claim": "Claim",
             "Close": "Close",
             "OpenChat": "Open Chat",
             "AddToChat": "Add to this chat",
-            "GoTo": "Got to %s",
-            "Bring": "Bring %s",
+            "Goto": "Got to",
+            "Bring": "Bring",
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
             "Type": "Type here..."
@@ -34,6 +35,10 @@
         "errors": {
             "AdminNotFound": "Admin is invalid!",
             "TargetNotFound": "Target is invalid or not found."
+        },
+        "notifications": {
+            "SuccessfullyWarnedPlayer": "Successfully warned %s",
+            "SuccessfullyWarnedPlayerId": "Successfully warned player with SteamID %s"
         }
     }
 }
