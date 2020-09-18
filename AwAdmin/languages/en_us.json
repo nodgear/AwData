@@ -30,11 +30,11 @@
             "Bring": "Bring",
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
-            "Type": "Type here...",
-            "Warn": "Warn",
-            "Copy": "Copy to clipboard",
-            "SelectPage": "Select page",
-            "SearchByID": "Seach by SteamID64" 
+            "Type": "Type here..."
+        },
+        "errors": {
+            "AdminNotFound": "Admin is invalid!",
+            "TargetNotFound": "Target is invalid or not found."
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
