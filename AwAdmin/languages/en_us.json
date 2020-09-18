@@ -2,7 +2,9 @@
     "version": "0.1",
     "phrases": {
         "errors": {
-            "NoPermission": "You're not allowed to %s"
+            "NoPermission": "You're not allowed to %s",
+            "AdminNotFound": "Admin is invalid!",
+            "TargetNotFound": "Target is invalid or not found."
         },
         "titles": {
             "Dashboard": "Dashboard",
@@ -32,10 +34,6 @@
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
             "Type": "Type here..."
-        },
-        "errors": {
-            "AdminNotFound": "Admin is invalid!",
-            "TargetNotFound": "Target is invalid or not found."
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
