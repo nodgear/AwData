@@ -9,7 +9,8 @@
             "Tickets": "Tickets",
             "Warns": "Warns",
             "TicketHistory": "Ticket History",
-            "PageNumber": "Page %i/%i"
+            "PageNumber": "Page %i/%i",
+            "ChatBox": "Chatbox"
         },
         "prompts": {
             "Yes": "Yes",
