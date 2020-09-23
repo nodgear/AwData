@@ -35,7 +35,8 @@
             "UnDisguise": "Exit Disguise",
             "Type": "Type here...",
             "Warn": "Give Warn",
-            "Copy": "Copy"
+            "Copy": "Copy",
+            "SeachByID": "Search by SteamID64"
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
