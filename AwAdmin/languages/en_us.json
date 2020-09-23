@@ -33,7 +33,9 @@
             "Bring": "Bring",
             "Disguise": "Enter Disguise",
             "UnDisguise": "Exit Disguise",
-            "Type": "Type here..."
+            "Type": "Type here...",
+            "Warn": "Give Warn",
+            "Copy": "Copy"
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
