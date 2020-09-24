@@ -12,7 +12,7 @@
             "Warns": "Warns",
             "TicketHistory": "Ticket History",
             "PageNumber": "Page %i/%i",
-            "ChatBox": "Chatbox"
+            "ChatBox": "Ticket #%s - Chat"
         },
         "prompts": {
             "Yes": "Yes",
