@@ -36,7 +36,8 @@
             "Type": "Type here...",
             "Warn": "Give Warn",
             "Copy": "Copy",
-            "SearchByID": "Search by SteamID64"
+            "SearchByID": "Search by SteamID64",
+            "ViewDetails": "View information"
         },
         "notifications": {
             "SuccessfullyWarnedPlayer": "Successfully warned %s",
