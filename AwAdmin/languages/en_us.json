@@ -12,12 +12,14 @@
             "Warns": "Warns",
             "TicketHistory": "Ticket History",
             "PageNumber": "Page %i/%i",
-            "ChatBox": "Ticket #%s - Chat"
+            "ChatBox": "Ticket #%s - Chat",
+            "RateStaff": "Rate the staff"
         },
         "prompts": {
             "Yes": "Yes",
             "No": "No",
-            "Cancel": "Cancel"
+            "Cancel": "Cancel",
+            "RateStaff": "Help us improve by rating the staff (%is left)"
         },
         "actions": {
             "Kick": "Kick",
