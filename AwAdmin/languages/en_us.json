@@ -13,7 +13,8 @@
             "TicketHistory": "Ticket History",
             "PageNumber": "Page %i/%i",
             "ChatBox": "Ticket #%s - Chat",
-            "RateStaff": "Rate the staff"
+            "RateStaff": "Rate the staff",
+            "Thanks": "Thank you!"
         },
         "prompts": {
             "Yes": "Yes",
