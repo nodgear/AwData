@@ -2,10 +2,10 @@
   "version": "0.1",
   "phrases": {
     "mainMenu" : {
-      "Join" : "Entrar",
-      "Leave" : "Sair",
-      "Discord" : "Discord",
-      "SteamGroup" : "Steam",
+      "Join" : "ENTRAR",
+      "Leave" : "SAIR",
+      "Discord" : "DISCORD",
+      "SteamGroup" : "STEAM",
       "RateUp" : "Votar positivamente",
       "RateDown" : "Votar Negativamente"
     }
