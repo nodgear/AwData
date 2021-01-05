@@ -1,1 +1,13 @@
-{}
+{
+  "version": "0.1",
+  "phrases": {
+    "mainMenu" : {
+      "Join" : "Entrar",
+      "Leave" : "Sair",
+      "Discord" : "Discord",
+      "SteamGroup" : "Steam",
+      "RateUp" : "Votar positivamente",
+      "RateDown" : "Votar Negativamente"
+    }
+  }
+}
