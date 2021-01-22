@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.2",
   "phrases": {
     "mainMenu" : {
       "Join" : "ENTRAR",
@@ -11,6 +11,13 @@
     },
     "loading" : { 
       "Loading" : "Carregando
+    },
+    "charMenu" : {
+      "missingName" : "Nome é obrigatório",
+      "missingLastName" : "Sobrenome é obrigatório",
+      "cantSpace" : "Sem espaços",
+      "alredyHave" : "Você já possui um personagem",
+      "nameExists" : "Combinação de nome e sobrenome já existe"
     }
   }
 }
