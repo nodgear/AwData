@@ -8,6 +8,9 @@
       "SteamGroup" : "STEAM",
       "RateUp" : "Votar positivamente",
       "RateDown" : "Votar Negativamente"
+    },
+    "loading" : { 
+      "Loading" : "Carregando
     }
   }
 }
